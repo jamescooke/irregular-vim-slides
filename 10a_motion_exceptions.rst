@@ -1,7 +1,7 @@
 Linewise motions are inclusive!
 ===============================
 
-Documented::
+Documentation::
 
     Linewise motions always include the start and end position.
 
