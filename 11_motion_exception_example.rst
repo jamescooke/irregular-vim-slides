@@ -1,10 +1,17 @@
-First paragraph.
+Delete this with ``d}``
+-----------------------
 
-Second paragraph.
+    A paragraph is indented. And
+has some other words in it. Just to see
+what happens.
 
-Third paragraph.
-Still third paragraph.
+**STUFF**
 
-Fourth paragraph.
+Delete this with ``v}d``
+----------------------------------------------
 
-NOTE compare with `v}d`
+    A paragraph is indented. And
+has some other words in it. Just to see
+what happens.
+
+**STUFF**
