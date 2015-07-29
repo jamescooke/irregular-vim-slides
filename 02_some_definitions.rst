@@ -5,4 +5,10 @@ Some Definitions
 
 2. Irregular configuration
 
-3. Just WAT?!
+3. Linewise vs characterwise::
+
+   :help linewise
+
+4. Motion::
+
+   :help motion

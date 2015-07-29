@@ -1,11 +1,11 @@
-Motion Exception: Exclusivity
-=============================
-
-``:help exclusive``
+Linewise motions are inclusive!
+===============================
 
 Documented::
 
     Linewise motions always include the start and end position.
+
+``:help exclusive``
 
 Exception
 '''''''''

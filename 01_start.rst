@@ -1,9 +1,9 @@
+IRREGULAR VIM
+=============
 
-    IRREGULAR VIM
-    =============
+a.k.a The WAT of Vim's Vi-nature
+--------------------------------
 
-    a.k.a The Wat of Vim's Vi-nature
-    --------------------------------
+(running with `vim -u NONE`)
 
-    (running with `vim -u NONE`)
-    (thanks Kris Jenkins)
+(thanks Kris Jenkins)
